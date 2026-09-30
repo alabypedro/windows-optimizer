@@ -1,0 +1,6 @@
+# Dependências mínimas (o resto usa a biblioteca padrão e ferramentas nativas do Windows)
+psutil>=5.9
+customtkinter>=5.2
+
+# Somente para gerar o .exe (opcional):
+# pyinstaller>=6.0
